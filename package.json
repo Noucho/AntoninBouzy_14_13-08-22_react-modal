@@ -1,6 +1,6 @@
 {
   "name": "@noucho/react-modal",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "Final version of the react modal package",
   "main": "index.js",
   "scripts": {
